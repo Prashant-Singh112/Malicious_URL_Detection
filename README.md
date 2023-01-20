@@ -1,7 +1,7 @@
 # Malicious_URL_Detection 
 
  This Project aims at detecting malicious URLs using both traditional ML Algorithms 
- and Hybrid Ensemle Machine Learning which uses Voting classifier as its subroutine.
+ and Hybrid Ensemble Machine Learning which uses Voting classifier as its subroutine.
 
 
 # How to run the project
